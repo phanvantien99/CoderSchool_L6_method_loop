@@ -1,0 +1,14 @@
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\bin\Debug\net8.0\Methods_and_Loops_q1.exe
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\bin\Debug\net8.0\Methods_and_Loops_q1.deps.json
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\bin\Debug\net8.0\Methods_and_Loops_q1.runtimeconfig.json
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\bin\Debug\net8.0\Methods_and_Loops_q1.dll
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\bin\Debug\net8.0\Methods_and_Loops_q1.pdb
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\obj\Debug\net8.0\Methods_and_Loops_q1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\obj\Debug\net8.0\Methods_and_Loops_q1.AssemblyInfoInputs.cache
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\obj\Debug\net8.0\Methods_and_Loops_q1.AssemblyInfo.cs
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\obj\Debug\net8.0\Methods_and_Loops_q1.csproj.CoreCompileInputs.cache
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\obj\Debug\net8.0\Methods_and_Loops_q1.dll
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\obj\Debug\net8.0\refint\Methods_and_Loops_q1.dll
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\obj\Debug\net8.0\Methods_and_Loops_q1.pdb
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\obj\Debug\net8.0\Methods_and_Loops_q1.genruntimeconfig.cache
+D:\Stuff\C#\CoderSchool_L6_Methods_Loops\Methods_and_Loops_q1\obj\Debug\net8.0\ref\Methods_and_Loops_q1.dll

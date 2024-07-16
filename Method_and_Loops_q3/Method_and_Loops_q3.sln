@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Method_and_Loops_q3", "Method_and_Loops_q3.csproj", "{7983BE23-9CD0-4296-A146-97709D1A032A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7983BE23-9CD0-4296-A146-97709D1A032A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7983BE23-9CD0-4296-A146-97709D1A032A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7983BE23-9CD0-4296-A146-97709D1A032A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7983BE23-9CD0-4296-A146-97709D1A032A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6F43E85-72DA-477D-A531-B9C8D8FBC80F}
+	EndGlobalSection
+EndGlobal
